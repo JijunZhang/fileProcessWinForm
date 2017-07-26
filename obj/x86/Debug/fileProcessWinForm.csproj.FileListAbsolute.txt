@@ -1,0 +1,7 @@
+E:\C#\0719fileProcess\fileProcessWinForm\bin\Debug\fileProcessWinForm.exe
+E:\C#\0719fileProcess\fileProcessWinForm\bin\Debug\fileProcessWinForm.pdb
+E:\C#\0719fileProcess\fileProcessWinForm\obj\x86\Debug\fileProcessWinForm.Form1.resources
+E:\C#\0719fileProcess\fileProcessWinForm\obj\x86\Debug\fileProcessWinForm.Properties.Resources.resources
+E:\C#\0719fileProcess\fileProcessWinForm\obj\x86\Debug\fileProcessWinForm.csproj.GenerateResource.Cache
+E:\C#\0719fileProcess\fileProcessWinForm\obj\x86\Debug\fileProcessWinForm.exe
+E:\C#\0719fileProcess\fileProcessWinForm\obj\x86\Debug\fileProcessWinForm.pdb
